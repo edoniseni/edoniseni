@@ -1,0 +1,2 @@
+- Hi, I’m Edon Iseni.
+- I am a bachelor in Computer Science.
